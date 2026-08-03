@@ -1,3 +1,5 @@
+# UFO Shortcuts
+
 https://www.reddit.com/r/UFOs/comments/1j45jd6/working_on_compiling_a_list_of_the_best_ufouap/
 
 
@@ -77,7 +79,7 @@ this wiki page.
 
 [The Galileo Project](https://projects.iq.harvard.edu/galileo)
 
-[The Mind Sublime](  https://mindsublime.blogspot.com/
+[The Mind Sublime](https://mindsublime.blogspot.com/)
 
 [The UFO Chronicles](https://www.theufochronicles.com/)
 
@@ -125,7 +127,7 @@ this wiki page.
 
 [UFO-UAP Connector](https://www.ufoconnector.com/)
 
-[UFODATA](https://www.ufodata.net/
+[UFODATA](https://www.ufodata.net/)
 
 [UFOevidence](http://ufoevidence.org/)
 
@@ -149,7 +151,7 @@ this wiki page.
 
 Pilots, Presidents & Army/Navy/Air Force, Intelligence Officials, Scientists, Politicians, & Miscellaneous
 
-[404 Not found][https://updb.app/)
+[404 Not found](https://updb.app/)
 
 
 Disclosure sites
@@ -274,6 +276,24 @@ I also found this thread/list from a couple years ago that you might want to che
 [Again](https://projects.iq.harvard.edu/galileo/home)
 
 [MADAR](https://madar.site/)
+
+[Natl Archives of Australia](https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=30030606&S=1)
+
+https://cufos.org/PDFs/pdfs/UFOsandIntelligence.pdf
+
+The cia and remote viewing.
+
+https://www.cia.gov/readingroom/docs/cia-rdp96-00788r001700210016-5.pdf
+
+This one on Qigong
+
+https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000300400002-9.pdf
+
+This one which compiles stuff from HarryisWhitehot. It’s a lot of information.
+
+https://docs.google.com/document/d/e/2PACX-1vQVn377KodONZ5cIY7-FS43Kvrh56MtYvBFaj4jk1BwjdS_vZzgieTkHhhGYPTYyJxY1bkPUAfFV0Kz/pub
+
+https://ufotimeline.com/category/books-documents/
 
 
 
