@@ -1,4 +1,4 @@
-/* ~~~~~~~~~~~~~~~~~ css/styles.css of w3cx-3of5 for w3cx-3of5.bauska.org ~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~ css/styles.css of UFO-Shortuts for ufo-shortcuts.bauska.org ~~~~~~~~~~~~~~~~~~ */
 img.displayed {
   display: block;
   margin: 0 auto; 
@@ -10,17 +10,17 @@ img.displayed {
 }
 
 ul, ol li { 
-  font-size: 13px;
+  font-size: 17px;
   padding: 15px;
-  margin-left: 15px;
-  line-height: 110%;
+  margin-left: 30px;
+  line-height: 130%;
   font-family: Bahnschrift, Inter, Helvetic, sans-serif, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVue Sans Mono";
 }
 p { 
-  font-size: 14.5px;  /* was 13.5 */
+  font-size: 17px;  /* was 13.5 */
   font-family: Bahnschrift, Inter, Helvetic, sans-serif;
   text-align: left; 
-  margin-left: 15px;  /* was 10px; */
+  margin-left: 30px;  /* was 10px; */
 }
 
 /* new 'pre' code goes here */
@@ -48,32 +48,32 @@ div {
   float: left; }
 
 h1 { 
-  font-size: 21px;
+  font-size: 25px;
   font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
   text-align: center;
 }
 h2 { 
-  font-size: 18px;
+  font-size: 22px;
   font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas; 
   margin-left: 15px;
 }
 h3 { 
-  font-size: 17px;
+  font-size: 21px;
   font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas; 
   margin-left: 15px;  
 }
 h4 { 
-  font-size: 16px;
+  font-size: 20px;
   font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas; 
   margin-left: 15px;
 }
 h5 { 
-  font-size: 15px;
+  font-size: 19px;
   font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas; 
   margin-left: 15px;
 }
 h6 { 
-  font-size: 12px;
+  font-size: 16px;
   font-family: Bahnschrift, Inter, Helvetic, sans-serif;
   margin-left: 15px;
 }
@@ -105,12 +105,12 @@ background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93
 
 body {
   font-family: Bahnschrift, Inter, Helvetic, sans-serif;
-  font-size: 14.5px;  /* 1.2rem; */
+  font-size: 17px;  /* 1.2rem; */
   background-color: #eee;  /* very light gray */
   color: #000000;  /* black */
   text-align: left;
   padding: 10px;
-  margin: 15px;
+  margin: 30px;
 }
 
 #myBtn {
