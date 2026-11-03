@@ -201,6 +201,25 @@ td {
   white-space: nowrap;
   text-overflow: ellipsis;
 }
+.glow-button {
+  display: inline-block;
+  padding: 12px 24px;
+  font-family: sans-serif;
+  font-weight: 600;
+  color: #ffffff;
+  background: linear-gradient(135deg, #6366f1, #a855f7); /* Purple/Indigo gradient */
+  border-radius: 50px;
+  text-decoration: none;
+  box-shadow: 0 4px 15px rgba(99, 102, 241, 0.3);
+  transition: all 0.3s ease;
+}
+
+/* Interactive Hover State */
+.glow-button:hover {
+  transform: translateY(-2px); /* Lifts button up slightly */
+  box-shadow: 0 6px 20px rgba(168, 85, 247, 0.5); /* Intensifies the glow */
+  filter: brightness(1.1); /* Makes colors pop */
+}
 
 @media all and (max-width: 500px) {
   img.frame { 
