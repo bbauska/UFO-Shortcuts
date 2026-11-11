@@ -10,14 +10,14 @@ img.displayed {
 }
 
 ul, ol li { 
-  font-size: 17px;
-  padding: 15px;
+  font-size: 21px;
+  padding: 5px;
   margin-left: 30px;
   line-height: 175%;
   font-family: Bahnschrift, Inter, Helvetic, sans-serif, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVue Sans Mono";
 }
 p { 
-  font-size: 17px;  /* was 13.5 */
+  font-size: 21px;  /* was 13.5 */
   font-family: Bahnschrift, Inter, Helvetic, sans-serif;
   text-align: left; 
   margin-left: 30px;  /* was 10px; */
@@ -208,7 +208,7 @@ td {
   font-weight: 600;
   color: #ffffff;
   background: linear-gradient(135deg, #6366f1, #a855f7); /* Purple/Indigo gradient */
-  border-radius: 50px;
+  border-radius: 10px;  /* 50px; */
   text-decoration: none;
   box-shadow: 0 4px 15px rgba(99, 102, 241, 0.3);
   transition: all 0.3s ease;
