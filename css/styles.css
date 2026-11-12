@@ -207,7 +207,7 @@ td {
   font-family: sans-serif;
   font-weight: 600;
   color: #ffffff;
-  background: linear-gradient(135deg, #6366f1, #a855f7); /* Purple/Indigo gradient */
+  background: linear-gradient(135deg, #a9abf7, #d8b3fb); /* a855f7 Purple/Indigo gradient */
   border-radius: 10px;  /* 50px; */
   text-decoration: none;
   box-shadow: 0 4px 15px rgba(99, 102, 241, 0.3);
