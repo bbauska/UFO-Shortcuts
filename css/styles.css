@@ -43,7 +43,7 @@ a:link {
   text-decoration: none;
 }
 a:visited {
-  color: #d1b04a;  /* #a5682a brown */
+  color: #68421a;  /* very dark orange - was #a5682a brown */
   background-color: transparent;
   text-decoration: none;
 }
