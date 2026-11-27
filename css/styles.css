@@ -220,6 +220,17 @@ td {
   box-shadow: 0 6px 20px rgba(168, 85, 247, 0.5); /* Intensifies the glow */
   filter: brightness(1.1); /* Makes colors pop */
 }
+/* added 11/26/2026 */
+* { box-sizing: border-box; }
+  body { margin: 0; padding: 1rem; font-family: system-ui, sans-serif; }
+.panel {
+  width: 100%; max-width: 52rem; margin-inline: auto;
+  min-height: 20rem; padding: 2rem;
+  display: grid; place-items: center;
+  background: #edf5ff; border: 1px solid #9dbde0;
+}
+.panel-content { text-align: center; }
+.panel-content p { max-width: 45ch; margin-inline: auto; line-height: 1.6; }
 
 @media all and (max-width: 500px) {
   img.frame { 
