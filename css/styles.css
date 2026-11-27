@@ -17,8 +17,9 @@ img.displayed {
   min-height: 20rem; padding: 2rem;
   display: grid; place-items: center;
   background: #edf5ff; border: 1px solid #9dbde0;
+  margin-inline: auto;
 }
-.panel-content { text-align: center; }
+.panel-content { text-align: auto; }
 .panel-content p { max-width: 45ch; margin-inline: auto; line-height: 1.6; }
 
 ul, ol li { 
